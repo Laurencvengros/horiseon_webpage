@@ -33,12 +33,9 @@ body {
     font-size: 20px;
 }
 /*This class gives the characteristics for how the list titles appear in the heading*/
-.header div ul{
-    list-style-type: none;
-}
 
 .header div ul li {
-   
+    list-style-type: none;
     display: inline-block;
     margin-left: 25px;
 }
