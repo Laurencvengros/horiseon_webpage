@@ -14,3 +14,5 @@
 https://laurencvengros.github.io/horiseon_webpage/
 
 * View a screenshot of the updated webpage
+
+![horiseon_webpage](horiseon-webpage-screenshot.png "screenshot of website")
