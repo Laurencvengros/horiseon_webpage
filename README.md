@@ -9,5 +9,5 @@
 * It condenses the CSS code into a more maintainable and understandable way using semantic structure 
 
 # Usage
-* Click the link below to view the live webpage 
+* Click the link to view the live webpage 
 * View a screenshot of the updated webpage
