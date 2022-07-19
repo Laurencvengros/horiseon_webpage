@@ -1,5 +1,5 @@
 # Name
- horiseon_webpage
+ Horiseon Webpage
 
 # Description
 * This project corrects broken links and fixes all bugs for a fully functioning site.
@@ -10,4 +10,7 @@
 
 # Usage
 * Click the link to view the live webpage 
+
+https://laurencvengros.github.io/horiseon_webpage/
+
 * View a screenshot of the updated webpage
