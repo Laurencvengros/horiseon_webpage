@@ -9,23 +9,23 @@ body {
     background-color: #d9dcd6;
 }
 /*All elements in the header will have the characteristics below*/
-.header {
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 /*The part of the header "Hori" and "n" will have the characteristics below*/
-.header h1 {
+header h1 {
     display: inline-block;
     font-size: 48px;
 }
 /*The part of the header "seo" will have the characteristics below*/
-.header h1 .seo {
+header h1 .seo {
     color: #d9dcd6;
 }
 /*This class describes the characteristics of how the div header will appear*/
-.header div {
+header div {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -34,7 +34,7 @@ body {
 }
 /*This class gives the characteristics for how the list titles appear in the heading*/
 
-.header div ul li {
+header div ul li {
     list-style-type: none;
     display: inline-block;
     margin-left: 25px;
