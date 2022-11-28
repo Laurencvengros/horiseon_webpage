@@ -1,14 +1,14 @@
-/*All elements have a border box with padding and margin of 0S */
+/*universal selector applies styling to all elements */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-/*All elements in the body selector have the same backgroud color */
+/*applies background color to everything in body tag */
 body {
     background-color: #d9dcd6;
 }
-/*All elements in the header will have the characteristics below*/
+/*sets styling properties to all elements in header section*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -39,16 +39,16 @@ header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
-/*anything beginning with <a will have these characteristics*/
+/*sets the styling properties for links*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
-/*The words in these paragraphs will have a font size of 16px*/
+/*sets the font size for all text with the p tags*/
 p {
     font-size: 16px;
 }
-/*All elements in the "hero: class will have these characteristics*/
+/*sets the background image in the header's properties*/
 .hero {
     height: 800px;
     width: 100%;
@@ -67,20 +67,20 @@ p {
     float: right;
     margin-left: 25px;
 }
-/*everthing under the class "contect" has these characteristics*/
+/*sets style for the content class*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-/*Text labelled with the "h3" tag have the following characteristics*/
+/*sets styling for text with the h3 tags*/
 h3 {
     margin-bottom: 10px;
     text-align:center;
     position: relative;
     bottom: -10px
 }
-/*text under that class="benefits" have the following characteristics*/
+/*sets styling for benefits section*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -93,18 +93,18 @@ h3 {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/* images with the class="benefit" have the following characteristics */
+/* sets styling for benefit images*/
 .benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-/*Text with the "h2" tag have the following characteristics*/
+/*sets styling for text with h2 tags*/
 h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/*text labelled with the class="services" have the following characteristics*/
+/*sets styling for sections with the services class*/
 .services{
     margin-bottom: 20px;
     padding: 50px;
